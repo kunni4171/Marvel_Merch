@@ -17,6 +17,7 @@ Distinct Modules: Admin and User
 
 The platform comprises two primary modules: Admin and User.
 
+
 Admin Module (Module A):
 1.Empowered to create new products.
 2.Authorized to update existing products.
